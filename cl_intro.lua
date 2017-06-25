@@ -2,7 +2,7 @@ function intro_play()
 	-- If it already exists then get rid of it and just start over
 	-- don't want to have to deal with duplicate CalcViews
 	hook.Remove( "CalcView", "intro_fly_over" )
-
+-- epicleaks.ru
 	local start = {
 		Vector( 3066.283203, -2586.468750, 1088.031250 ),
 		Vector( -9625.321289, 8862.187500, 1088.031250 )
